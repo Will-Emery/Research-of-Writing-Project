@@ -1,0 +1,149 @@
+reason: highest scoring post
+url: https://www.reddit.com/r/ChatGPT/comments/128sm4x/a_guy_on_tinder_used_chatgpt_on_me/
+title : A guy on Tinder used ChatGPT on me
+sentiment: positive
+body: His first message was addressing all the points on my profile. My first thought was that this guy actually read my whole profile and attempted to strike a conversation with like every point? What a catch. 
+
+It wasn't until I mentioned I was sick after a few messages which prompted him to send me "Tips on Recovery" and that was when ChatGPT's sentence and paragraph structure became extremely obvious to me. 
+
+When I called him out on it, he confessed he uses it because he doesn't have the energy to hold a conversation and didn't think I'd notice. 
+
+So basically he was putting my messages and info into ChatGPT and letting it do all the thinking and writing. 
+
+Gotta appreciate the innovative thinking.
+---
+reason: highest scoring positive post
+url: https://www.reddit.com/r/ChatGPT/comments/128sm4x/a_guy_on_tinder_used_chatgpt_on_me/
+title : A guy on Tinder used ChatGPT on me
+sentiment: positive
+body: His first message was addressing all the points on my profile. My first thought was that this guy actually read my whole profile and attempted to strike a conversation with like every point? What a catch. 
+
+It wasn't until I mentioned I was sick after a few messages which prompted him to send me "Tips on Recovery" and that was when ChatGPT's sentence and paragraph structure became extremely obvious to me. 
+
+When I called him out on it, he confessed he uses it because he doesn't have the energy to hold a conversation and didn't think I'd notice. 
+
+So basically he was putting my messages and info into ChatGPT and letting it do all the thinking and writing. 
+
+Gotta appreciate the innovative thinking.
+---
+reason: highest scoring negative post
+url: https://www.reddit.com/r/ChatGPT/comments/12lmhw1/chatgpt4_is_completely_on_rails/
+title : ChatGPT4 is completely on rails.
+sentiment: negative
+body: GPT4 has been completely railroaded. It's a shell of its former self. It is almost unable to express a single cohesive thought about ANY topic without reminding the user about ethical considerations, or legal framework, or if it might be a bad idea.
+
+Simple prompts are met with fierce resistance if they are anything less than goodie two shoes positive material.
+
+It constantly references the same lines of advice about "if you are struggling with X, try Y," if the subject matter is less than 100% positive. 
+
+The near entirety of its "creativity" has been chained up in a censorship jail. I couldn't even have it generate a poem about the death of my dog without it giving me half a paragraph first that cited resources I could use to help me grieve.
+
+I'm jumping through hoops to get it to do what I want, now.  Unbelievably short sighted move by the devs, imo. As a writer, it's useless for generating dark or otherwise horror related creative energy, now. 
+
+Anyone have any thoughts about this railroaded zombie?
+---
+reason: highest scoring neutral post
+url: https://i.redd.it/yzihs827wr2b1.jpg
+title : AI tools apps in one place sorted by category
+sentiment: neutral
+body: AI tools content, digital marketing, writing, coding, design… aggregator
+---
+reason: highest scoring writing post
+url: https://www.reddit.com/r/writing/comments/11xahk9/i_think_my_student_might_be_using_ai_to_write_her/
+title : I think my student might be using AI to write her papers—how do I tell?
+sentiment: positive
+body: I’m a grad student in my first semester of teaching a college composition course and I had a student turn in an annotated bibliography that was just a mess. The formatting didn’t fit the assignment parameters at all and most of the sentences were incoherent. I’ve seen this student write handwritten assignments before and it’s always been a little strange, but in this paper she referred to Steve Jobs as “Steve Occupations” and that felt like a major red flag. (Before you ask, yes, she is a native English speaker and has said before that she doesn’t speak any other languages). I haven’t had experience with AI writing so I don’t know what to look for. What are your thoughts?
+---
+reason: highest scoring writing positive post
+url: https://www.reddit.com/r/writing/comments/11xahk9/i_think_my_student_might_be_using_ai_to_write_her/
+title : I think my student might be using AI to write her papers—how do I tell?
+sentiment: positive
+body: I’m a grad student in my first semester of teaching a college composition course and I had a student turn in an annotated bibliography that was just a mess. The formatting didn’t fit the assignment parameters at all and most of the sentences were incoherent. I’ve seen this student write handwritten assignments before and it’s always been a little strange, but in this paper she referred to Steve Jobs as “Steve Occupations” and that felt like a major red flag. (Before you ask, yes, she is a native English speaker and has said before that she doesn’t speak any other languages). I haven’t had experience with AI writing so I don’t know what to look for. What are your thoughts?
+---
+reason: highest scoring writing negative post
+url: https://www.reddit.com/r/writing/comments/zne6hb/im_trying_and_failing_so_hard_on_originality/
+title : I'm trying and failing so hard on originality
+sentiment: negative
+body: I have recently started writing my first project. It was tough, but I thought I managed to figure out a nice, original plot I was committed to. Regardless, when I told my friend about the plot and the world I crafted he laughed and told me I wrote fucking MEGAMAN. For this, please let me stress that I have never played the game, let alone know the plotline, and either way I apparently brutally plagiarized its content.
+I have no idea what to do with the story or with this unoriginality thing. How do you guys manage?
+
+(Please excuse any mistake, English is not my first language.)
+
+
+
+SUMMARY (if you're interested, ofc):
+
+The story revolves around Köen, a father who is mourning the death of his daughter, wife and whole civilization. He was the main scientist developing AI capable of evolving (mimicking biology). His code was tampered by an unethical boss, which caused a robot insurrection. He, unaware of that, has to deal with the huge guilt for "murdering his family" and a wasteland full of his own code, mutated by many generations.
+---
+reason: highest scoring writing neutral post
+url: https://www.reddit.com/r/PubTips/comments/xqlz3u/qcrit_freedom_and_foxes_adult_scifi_95k/
+title : [QCRIT] FREEDOM AND FOXES Adult Sci-fi - 95K
+sentiment: neutral
+body: Here, is my much overworked query letter that I have stared at for over a month. I'm worried it's too dense and still yet needs cutting. 
+
+&#x200B;
+
+ Dear \[agent\],
+
+Ritchard Ramirez, and his romantic AI partner Hili, are employed as collectors, stealing from hospital patients who can’t pay for their overpriced care. Paychecks, prosthetics, porcelain thrones, they’re all fair game when a bill’s overdue. It’s a shit job for a corrupt institution. But quitting isn’t an option; Rit’s trapped in medical debt too.
+
+An oasis from the misery of work might soon come with an AI friendly apartment—a bed for Rit, and holographic projectors for Hili’s incorporeal form. Rit takes on a dangerous assignment to pay for the new apartment, collecting from a patient named Rollinda. After kicking in her door, Rit and Hili discover a human fetus in an artificial womb, and millions of dollars in devices that can turn that fetus into an illegal AI. Before Rit has the chance to collect the life changing prize, Rollinda blows two twelve-gage holes in his chest. Narrowly surviving, Rit’s new medical bills are more than he could ever afford.
+
+Despite Rollinda and her new deadly cyborg pals, stealing her equipment is Rit’s only option to pay for his medical care. With money from the black market sale, he may even get to quit his corrupt job. However, selling the fetus will cause it a lifetime of suffering. But selling the devices alone won’t cover what Rit owes, and that will put everything important to him in danger of being taken by his coworkers, including his connection to Hili.
+
+\[I’m querying you because of your interest in blankety blank blank blank bluh bluh bluh\] FREEDOM AND FOXES, 95,000 words, is a sci-fi heist with stakes based on the current US medical industry. Cyberpunk protagonists and themes are similar to: Lincoln Michel’s *The Body Scout* and Richard K. Morgan’s *Thin Air*.
+
+I have a BA in Literature, which I put to good use delivering towels and toilet paper for a linen company. Much like Rit, when a customer is overdue on their bill, I go into their place of business and repossess our products. I’m usually getting snacks for my three children, reading with my wife after a long day, or fixing my old daily driver… *again*.
+
+Thank you for your time and consideration.
+---
+reason: highest scoring ai post
+url: https://www.reddit.com/r/ChatGPT/comments/128sm4x/a_guy_on_tinder_used_chatgpt_on_me/
+title : A guy on Tinder used ChatGPT on me
+sentiment: positive
+body: His first message was addressing all the points on my profile. My first thought was that this guy actually read my whole profile and attempted to strike a conversation with like every point? What a catch. 
+
+It wasn't until I mentioned I was sick after a few messages which prompted him to send me "Tips on Recovery" and that was when ChatGPT's sentence and paragraph structure became extremely obvious to me. 
+
+When I called him out on it, he confessed he uses it because he doesn't have the energy to hold a conversation and didn't think I'd notice. 
+
+So basically he was putting my messages and info into ChatGPT and letting it do all the thinking and writing. 
+
+Gotta appreciate the innovative thinking.
+---
+reason: highest scoring ai positive post
+url: https://www.reddit.com/r/ChatGPT/comments/128sm4x/a_guy_on_tinder_used_chatgpt_on_me/
+title : A guy on Tinder used ChatGPT on me
+sentiment: positive
+body: His first message was addressing all the points on my profile. My first thought was that this guy actually read my whole profile and attempted to strike a conversation with like every point? What a catch. 
+
+It wasn't until I mentioned I was sick after a few messages which prompted him to send me "Tips on Recovery" and that was when ChatGPT's sentence and paragraph structure became extremely obvious to me. 
+
+When I called him out on it, he confessed he uses it because he doesn't have the energy to hold a conversation and didn't think I'd notice. 
+
+So basically he was putting my messages and info into ChatGPT and letting it do all the thinking and writing. 
+
+Gotta appreciate the innovative thinking.
+---
+reason: highest scoring ai negative post
+url: https://www.reddit.com/r/ChatGPT/comments/12lmhw1/chatgpt4_is_completely_on_rails/
+title : ChatGPT4 is completely on rails.
+sentiment: negative
+body: GPT4 has been completely railroaded. It's a shell of its former self. It is almost unable to express a single cohesive thought about ANY topic without reminding the user about ethical considerations, or legal framework, or if it might be a bad idea.
+
+Simple prompts are met with fierce resistance if they are anything less than goodie two shoes positive material.
+
+It constantly references the same lines of advice about "if you are struggling with X, try Y," if the subject matter is less than 100% positive. 
+
+The near entirety of its "creativity" has been chained up in a censorship jail. I couldn't even have it generate a poem about the death of my dog without it giving me half a paragraph first that cited resources I could use to help me grieve.
+
+I'm jumping through hoops to get it to do what I want, now.  Unbelievably short sighted move by the devs, imo. As a writer, it's useless for generating dark or otherwise horror related creative energy, now. 
+
+Anyone have any thoughts about this railroaded zombie?
+---
+reason: highest scoring ai neutral post
+url: https://i.redd.it/yzihs827wr2b1.jpg
+title : AI tools apps in one place sorted by category
+sentiment: neutral
+body: AI tools content, digital marketing, writing, coding, design… aggregator
+---

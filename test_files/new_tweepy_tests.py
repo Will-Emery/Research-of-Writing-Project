@@ -4,11 +4,12 @@ from twitter_authentication import consumer_key, consumer_secret, access_token, 
 def search_tweets(keyword):
     # Authenticate to Twitter
     # Create a client object
-    client = tweepy.Client(bearer_token=bearer_token,
-                           consumer_key=consumer_key,
-                           consumer_secret=consumer_secret,
-                           access_token=access_token,
-                           access_token_secret=access_token_secret)
+    client = tweepy.Client(
+        bearer_token=bearer_token,
+        consumer_key=consumer_key,
+        consumer_secret=consumer_secret,
+        access_token=access_token,
+        access_token_secret=access_token_secret)
 
     # Search for tweets that contain the keyword
     tweets = client.search_recent_tweets(query=keyword, lang="en")
@@ -28,6 +29,7 @@ def post_tweets(tweet_text):
 
     # Create a client object
     client = tweepy.Client(
+        bearer_token=bearer_token,
         consumer_key=consumer_key,
         consumer_secret=consumer_secret,
         access_token=access_token,
