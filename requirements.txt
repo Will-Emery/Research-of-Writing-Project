@@ -1,0 +1,5 @@
+### Requrements without Version Specifiers ###
+praw
+pandas
+NLTK
+matplotlib

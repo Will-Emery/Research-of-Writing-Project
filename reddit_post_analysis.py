@@ -27,9 +27,9 @@ def search_reddit_for_phrase(phrase, subreddit_name, df):
     subreddit = reddit.subreddit(subreddit_name)
     
     # Search for the given phrase in the subreddit
-    search_results = subreddit.search(phrase, time_filter = 'year', sort = 'top', limit=20)
+    search_results = subreddit.search(phrase, time_filter = 'year', sort = 'top', limit=10)
     #NOTE: only pulling from the last year due to open release of chatGPT
-    #NOTE: only pulling top 20 to try to keep representation of both sides equal. 
+    #NOTE: only pulling top 10 to try to keep representation of both sides equal. 
     # It was set to 100 but that resulted in mostly ai related posts being in the final dataset
     
     # Iterate over the search results
@@ -210,7 +210,7 @@ def pull_highest_score_posts(df):
     highest_score_list.append(highest_scoring_writing_neutral_post)
 
     #get the highest scoring post with an ai subreddit classification
-    highest_scoring_ai_post = df[df['subreddit_class'] == 'ai'].iloc[0]
+    highest_scoring_ai_post = df[df['subreddit_class'] == 'ai'].iloc[0] #highest here will be the same as the highest overall post
     highest_scoring_ai_post['reason'] = 'highest scoring ai post'
     return_df[len(return_df.index)] = highest_scoring_ai_post
     highest_score_list.append(highest_scoring_ai_post)
@@ -443,6 +443,8 @@ if __name__ == '__main__':
 
     #sort the results by score
     results_df = results_df.sort_values(by=['score'], ascending=False)
+    print("results sorted by score")
+    print(str(len(results_df)) + " posts found")
 
     #get the highest scoring posts
     highest_scoreing_posts = pull_highest_score_posts(results_df)
