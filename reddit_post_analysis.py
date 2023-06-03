@@ -3,7 +3,6 @@ from reddit_auth import client_id, client_secret, user_agent
 import pandas as pd
 from nltk.sentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
-import os
 
 
 def search_reddit_for_phrase(phrase, subreddit_name, df):
